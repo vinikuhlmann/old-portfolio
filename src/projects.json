@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "Portfolio em React",
+        "description": "Responsivo a diferentes tamanhos de tela.",
+        "image": "/images/site-code.jpg",
+        "href": ""
+    },
+    {
+        "id": 2,
+        "title": "Campo minado em Angular",
+        "description": "Com seleção de dificuldade e contadores de tempo e de minas marcadas.",
+        "image": "/images/minesweeper.jpg",
+        "href": "https://vinikuhlmann.github.io/minesweeper/"
+    },
+    {
+        "id": 3,
+        "title": "Site de venda de bebidas em React",
+        "description": "Projeto desenvolvido em um time de seis pessoas, focado em máxima responsividade, usabilidade e acessibilidade.",
+        "image": "/images/fontes-bebidas.jpg",
+        "href": "https://ihc-bebidas-jdp0xa33u-thalessilva19.vercel.app/"
+    },
+    {
+        "id": 4,
+        "title": "Previsão do preço das ações do Google em R",
+        "description": "Limpeza dos dados, estimação de um ARIMA+eGARCH e previsão para 2026.",
+        "image": "/images/google-time-series.jpg",
+        "href": "/ipynb-notebooks/google-stock-price-forecasting.html"
+    },
+    {
+        "id": 5,
+        "title": "Site de venda de armas (frontend puro + backend MongoDB)",
+        "description": "Projeto desenvolvido em um time de três pessoas para a matéria de Desenvolvimento Web.",
+        "image": "/images/gun-store.jpg",
+        "href": "https://github.com/l-a-motta/online-store"
+    }
+]
