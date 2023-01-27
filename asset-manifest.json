@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.834ecb99.css",
-    "main.js": "/portfolio/static/js/main.0185cd89.js",
+    "main.js": "/portfolio/static/js/main.0c4f773e.js",
     "static/media/OpenSans-MediumItalic.woff": "/portfolio/static/media/OpenSans-MediumItalic.494ba1214eb7e125a68d.woff",
     "static/media/OpenSans-LightItalic.woff": "/portfolio/static/media/OpenSans-LightItalic.d09a2ced8c133bdcba7c.woff",
     "static/media/OpenSans-SemiBoldItalic.woff": "/portfolio/static/media/OpenSans-SemiBoldItalic.5786d8d850b32344f0e4.woff",
@@ -28,10 +28,10 @@
     "static/media/OpenSans-Bold.woff2": "/portfolio/static/media/OpenSans-Bold.f3e79b3d83d8a599df08.woff2",
     "index.html": "/portfolio/index.html",
     "main.834ecb99.css.map": "/portfolio/static/css/main.834ecb99.css.map",
-    "main.0185cd89.js.map": "/portfolio/static/js/main.0185cd89.js.map"
+    "main.0c4f773e.js.map": "/portfolio/static/js/main.0c4f773e.js.map"
   },
   "entrypoints": [
     "static/css/main.834ecb99.css",
-    "static/js/main.0185cd89.js"
+    "static/js/main.0c4f773e.js"
   ]
 }
